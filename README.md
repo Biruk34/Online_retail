@@ -51,10 +51,8 @@ Conclusion
 
 This project highlights the power of customer segmentation using K-means clustering. By understanding customer behavior through metrics such as Frequency, Monetary, and Recency, businesses can develop targeted strategies for retaining and engaging their customers. The insights gained from this analysis can drive marketing decisions and improve customer retention.
 
-Installation To run this project locally, follow these steps:
 
-Clone the repository:
-git clone https://github.com/biruk34/Online_retail.git
+To run this project locally:
 
-
-
+Clone this repository:
+git clone https://github.com/Biruk34/Online_retail.git
