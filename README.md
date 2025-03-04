@@ -1,8 +1,11 @@
 Customer Spending Behavior Analysis Project
+
 Description
+
 This project applies K-means clustering to analyze customer spending behavior and segment customers into distinct groups based on their Frequency, Monetary, and Recency data. By clustering customers, businesses can identify patterns and tailor marketing strategies for different customer segments.
 
 Project Overview
+
 The main steps in this project include:
 
 Data Loading: Importing the dataset containing customer transaction data.
