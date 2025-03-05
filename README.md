@@ -55,4 +55,5 @@ This project highlights the power of customer segmentation using K-means cluster
 To run this project locally:
 
 Clone this repository:
+
 git clone https://github.com/Biruk34/Online_retail.git
